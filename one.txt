@@ -1,3 +1,3 @@
 one
-i changes it remotely
-in github
+i changes it in remote repo
+
