@@ -1,3 +1,2 @@
-just created in developer branch 
-check to see how pull command works
+just created 
 
